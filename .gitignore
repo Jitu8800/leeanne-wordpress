@@ -7,12 +7,12 @@ wp-config.php
 # ---------------------------
 # Uploads & Cache
 # ---------------------------
-# wp-content/uploads/
-# wp-content/cache/
-# wp-content/backup/
-# wp-content/backups/
-# wp-content/upgrade/
-# wp-content/wflogs/
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/wflogs/
 
 # ---------------------------
 # Logs
