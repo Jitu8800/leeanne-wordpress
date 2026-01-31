@@ -1,0 +1,55 @@
+# ---------------------------
+# WordPress Core
+# ---------------------------
+wp-config.php
+.htaccess
+
+# ---------------------------
+# Uploads & Cache
+# ---------------------------
+# wp-content/uploads/
+# wp-content/cache/
+# wp-content/backup/
+# wp-content/backups/
+# wp-content/upgrade/
+# wp-content/wflogs/
+
+# ---------------------------
+# Logs
+# ---------------------------
+error_log
+wp-content/debug.log
+
+# ---------------------------
+# Environment Files
+# ---------------------------
+.env
+.env.local
+
+# ---------------------------
+# OS / Editor Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ---------------------------
+# Node / Vendor
+# ---------------------------
+node_modules/
+vendor/
+
+# ---------------------------
+# Local Dev Tools
+# ---------------------------
+.idea/
+.vscode/
+.history/
+
+# ---------------------------
+# Laragon / Local
+# ---------------------------
+*.conf
+*.pem
+*.crt
